@@ -531,4 +531,4 @@ shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
   express: ^4.17.1
-  ytdl-core: ^4.9.1
+  ytdl-core: ^4.11.5
